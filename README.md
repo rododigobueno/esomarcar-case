@@ -34,6 +34,34 @@ O **É Só Marcar** foi criado para centralizar esse fluxo e permitir que o pró
 - usuários administrativos;
 - regras de antecedência e janela máxima de agendamento.
 
+## Interface e fluxo do produto
+
+> As imagens abaixo foram capturadas no **ambiente de testes com dados fictícios**, preservando informações da operação real.
+
+### Agendamento público
+
+O cliente escolhe profissional e serviços e visualiza duração e valor antes de avançar para a seleção de data e horário.
+
+![Agendamento público](./agendamento-publico.png)
+
+### Agenda do dia
+
+O painel organiza os horários por profissional, destaca diferentes origens de agendamento e permite acompanhar rapidamente a operação do dia.
+
+![Agenda do dia](./agenda-dia.png)
+
+### Cadastro e gestão de serviços
+
+Os serviços podem ser cadastrados, editados, desativados e ordenados conforme a operação do estabelecimento.
+
+![Cadastro de serviços](./servicos.png)
+
+### Configurações e controle de acesso
+
+O painel também concentra dados do estabelecimento, configurações operacionais e usuários com acesso administrativo.
+
+![Configurações e usuários](./configuracoes-usuarios.png)
+
 ## Stack e práticas utilizadas
 
 ### V1 — produção
